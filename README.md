@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">> Initializing system...</h1>
 
-<!--
-**juanc577/juanc577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Hacker+Mode+ON;Learning+Software+Dev;Building+my+future..." />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+```bash
+> name: Juan Camilo
+> role: Developer in progress
+> status: learning...
+
+> HTML | CSS | Java (aprendiendo)
+
+> Become a pro developer
+> Build real projects
+> Never give up
+
+<p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/> </p> ```
