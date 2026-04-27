@@ -66,5 +66,5 @@ $ echo "Stay low. Keep coding. No excuses."
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ3x0z7G1y/giphy.gif" width="280">
 </p>
