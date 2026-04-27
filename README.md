@@ -1,70 +1,70 @@
-<h1 align="center">⚡ SYSTEM BOOTING...</h1>
+<h1 align="center">[ SYSTEM ONLINE ]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Hacker+Mode+Activated;Juan+Camilo+Online;Learning+Software+Development;Building+the+future..." />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="200">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=>>+Access+Granted;>>+Juan+Camilo+Connected;>>+Initializing+Dev+Protocol;>>+Learning...+Evolving...+Executing..." />
 </p>
 
 ---
 
 ```bash
-> whoami
-Juan Camilo
+$ whoami
+juan_camilo
 
-> role
-Developer in progress
+$ role
+developer_in_progress
 
-> status
-Learning... | Grinding... | Improving...
+$ status
+[███████░░░] 70% loading...
 
-> stack
-HTML | CSS | Java (aprendiendo)
+$ skills
+- html
+- css
+- java (learning)
 
-> mission
-Become a pro developer
-Build real projects
-Never give up
+$ objective
+> become_pro_developer
+> build_real_projects
+> never_give_up
 ```
 
 ---
 
-### ⚙️ SYSTEM STACK
+## ⚙️ STACK LOADED
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-### 📡 SYSTEM ANALYTICS
+## 📊 SYSTEM DATA
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanc577&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanc577&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanc577&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanc577&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
 </p>
 
 ---
 
-### 🔥 ACTIVITY LOG
+## 🔥 EXECUTION LOG
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=chartreuse-dark" />
+  <img src="https://streak-stats.demolab.com?user=juanc577&theme=chartreuse-dark&hide_border=true&background=000000" />
 </p>
 
 ---
 
-### 🧬 VISITOR SCAN
+## 🧬 TRACE
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+Views&color=00ff00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=juanc577&label=VISITS&color=00ff00&style=flat" />
 </p>
 
 ---
 
-### ☠️ FINAL MESSAGE
 ```bash
-> "Stay low. Keep coding. Become unstoppable."
+$ echo "Stay low. Keep coding. No excuses."
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
 </p>
