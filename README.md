@@ -40,8 +40,8 @@ Never give up
 
 ### 📡 SYSTEM ANALYTICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanc577&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanc577&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
