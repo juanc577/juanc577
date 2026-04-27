@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=>>+Access+Granted;>>+Juan+Camilo+Connected;>>+Initializing+Dev+Protocol;>>+Learning...+Evolving...+Executing..." />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=>>+Access+Granted;>>+Juan+Camilo+Connected;>>+Initializing+Dev+Protocol;>>+Learning...+Evolving...+Executing..." />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ3x0z7G1y/giphy.gif" width="350">
-</p>
-
 ---
 
 ```bash
